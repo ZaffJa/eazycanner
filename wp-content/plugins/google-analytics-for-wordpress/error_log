@@ -1,0 +1,1 @@
+[06-Feb-2017 13:00:32 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function plugin_basename() in /home/eazycann/public_html/wp-content/plugins/google-analytics-for-wordpress/googleanalytics.php on line 42

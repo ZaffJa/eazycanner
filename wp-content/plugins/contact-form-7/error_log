@@ -1,0 +1,2 @@
+[09-Jan-2017 14:01:58 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function plugin_basename() in /home/eazycann/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[05-Feb-2017 23:53:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function plugin_basename() in /home/eazycann/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
