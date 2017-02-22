@@ -33,7 +33,7 @@ define('DB_USER', 'eazycanner');
 define('DB_PASSWORD', 'blingking@99');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '45.76.161.118');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
