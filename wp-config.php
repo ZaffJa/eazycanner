@@ -25,7 +25,7 @@ define( 'WPCACHEHOME', '/webapps/eazycanner/wp-content/plugins/wp-super-cache/' 
 define('DB_NAME', 'eazycanner');
 define('ALLOW_UNFILTERED_UPLOADS', true);
 
-
+define('RELOCATE',true);
 /** MySQL database username */
 define('DB_USER', 'eazycanner');
 
