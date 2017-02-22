@@ -27,10 +27,10 @@ define('ALLOW_UNFILTERED_UPLOADS', true);
 
 
 /** MySQL database username */
-define('DB_USER', 'eazycann');
+define('DB_USER', 'eazycanner');
 
 /** MySQL database password */
-define('DB_PASSWORD', '3006YtfFsx');
+define('DB_PASSWORD', 'blingking@99');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
